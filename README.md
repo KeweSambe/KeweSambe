@@ -38,7 +38,7 @@ Chaque mois, je développe un nouveau projet, data ou créatif, pour continuer �
 ### 📊 Data Viz / BI
 <p align="center">
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img width="60" height="60" alt="Power BI" src="https://github.com/user-attachments/assets/9389e419-b100d-4107-bdb0-57c796e06af6" />
+    <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/9610f5d9-3c15-4f37-bb41-2ed567a22289" />
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="60" height="60"/>
@@ -88,5 +88,15 @@ Chaque mois, je développe un nouveau projet, data ou créatif, pour continuer �
 </p>
 
 ## 📂 Projets
+
 ## 🎨 Mon univers créatif
+En parallèle de mes projets data, je développe un univers narratif connecté : **le Rohaverse**.  
+Il regroupe plusieurs webtoons interconnectés autour d’un mythe central. Chaque série explore un style graphique et narratif différent, mais toutes se rejoignent dans une trame épique.
+
+- **🎭 Thèmes** : pouvoirs, mythes, voyage dans le temps, réalités parallèles.  
+- **📚 Projets** : 6 webtoons principaux + 1 final qui les relie.  
+- **✨ Objectif** : publier et partager ma passion.  
+
+➡️ [Découvrir plus sur le Rohaverse]
+
 ## 🌐 Me retrouver
