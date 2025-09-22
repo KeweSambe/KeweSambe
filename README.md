@@ -15,6 +15,7 @@ Chaque mois, je développe un nouveau projet, data ou créatif, pour continuer �
 
 ➡️ [Voir ma roadmap de projet](#) 
 
+## 📂 Projets
 ## 🛠️ Mes Compétences
 ### 💻 Langages & Data
 <p align="center">
@@ -86,8 +87,6 @@ Chaque mois, je développe un nouveau projet, data ou créatif, pour continuer �
 
   </a>
 </p>
-
-## 📂 Projets
 
 ## 🎨 Mon univers créatif
 En parallèle de mes projets data, je développe un univers narratif connecté : **le Rohaverse**.  
