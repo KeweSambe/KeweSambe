@@ -13,8 +13,6 @@ J'essaie de me construire un profil hybride où l’IA, la data et mes passions 
 ## 🚀 Mon défi : 1 projet par mois  
 Chaque mois, je développe un nouveau projet, data ou créatif, pour continuer à apprendre et partager et evidement remplir mon portefolio !
 
-➡️ [Voir ma roadmap de projet](#) 
-
 ## 📂 Projets
 ## 🛠️ Mes Compétences
 ### 💻 Langages & Data
