@@ -97,14 +97,14 @@ Il regroupe plusieurs webtoons interconnectés autour d’un mythe central. Chaq
 ## 🌐 Me retrouver
 <p align="center">
   <a href="https://www.linkedin.com/in/kewe-sambe/" target="_blank" rel="noreferrer">
-    <img width="80" height="40" alt="1" src="https://github.com/user-attachments/assets/d6e52e75-4d35-4065-8971-ea4bed298799" />
+    <img width="300" height="180" alt="1" src="https://github.com/user-attachments/assets/2b513490-ed0b-4027-a38d-6ecd8f0fb2f5" />
   </a>
 
   <a href="mailto:kewe.sambe@outlook.fr" target="_blank" rel="noreferrer">
-    <img width="150" height="100" alt="2" src="https://github.com/user-attachments/assets/0be54f90-7bf2-4aa5-9b19-386b0d5c4f5e" />
+    <img width="300" height="180" alt="2" src="https://github.com/user-attachments/assets/6414adb1-84fa-4910-9c9c-db99f51970ca" />
   </a>
   <a href="tel:+33651161037" target="_blank" rel="noreferrer">
-    <img width="150" height="100" alt="3" src="https://github.com/user-attachments/assets/a8bdb796-7329-4502-8368-ffcded5b54b7" />
+    <img width="300" height="180" alt="3" src="https://github.com/user-attachments/assets/802dcb9f-3d63-41b9-880e-f6a0c9b40ca1" />
   </a>
 </p>
 
