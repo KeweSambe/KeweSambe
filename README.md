@@ -94,6 +94,17 @@ Il regroupe plusieurs webtoons interconnectés autour d’un mythe central. Chaq
 - **📚 Projets** : 6 webtoons principaux + 1 final qui les relie.  
 - **✨ Objectif** : publier et partager ma passion.  
 
-➡️ [Découvrir plus sur le Rohaverse]
-
 ## 🌐 Me retrouver
+<p align="center">
+  <a href="https://www.linkedin.com/in/kewe-sambe/" target="_blank" rel="noreferrer">
+    <img width="80" height="40" alt="1" src="https://github.com/user-attachments/assets/d6e52e75-4d35-4065-8971-ea4bed298799" />
+  </a>
+
+  <a href="mailto:kewe.sambe@outlook.fr" target="_blank" rel="noreferrer">
+    <img width="80" height="40" alt="2" src="https://github.com/user-attachments/assets/0be54f90-7bf2-4aa5-9b19-386b0d5c4f5e" />
+  </a>
+  <a href="tel:+33651161037" target="_blank" rel="noreferrer">
+    <img width="80" height="40" alt="3" src="https://github.com/user-attachments/assets/a8bdb796-7329-4502-8368-ffcded5b54b7" />
+  </a>
+</p>
+
