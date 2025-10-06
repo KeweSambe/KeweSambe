@@ -97,14 +97,13 @@ Il regroupe plusieurs webtoons interconnectés autour d’un mythe central. Chaq
 ## 🌐 Me retrouver
 <p align="center">
   <a href="https://www.linkedin.com/in/kewe-sambe/" target="_blank" rel="noreferrer">
-    <img width="300" height="180" alt="1" src="https://github.com/user-attachments/assets/2b513490-ed0b-4027-a38d-6ecd8f0fb2f5" />
+    <img width="200" height="120" alt="linkedin" src="https://github.com/user-attachments/assets/2b513490-ed0b-4027-a38d-6ecd8f0fb2f5" />
   </a>
-
-  <a href="mailto:kewe.sambe@outlook.fr" target="_blank" rel="noreferrer">
-    <img width="300" height="180" alt="2" src="https://github.com/user-attachments/assets/6414adb1-84fa-4910-9c9c-db99f51970ca" />
+<a href="mailto:kewe.sambe@outlook.fr" target="_blank" rel="noreferrer">
+    <img width="200" height="120" alt="mail" src="https://github.com/user-attachments/assets/6414adb1-84fa-4910-9c9c-db99f51970ca" />
   </a>
   <a href="tel:+33651161037" target="_blank" rel="noreferrer">
-    <img width="300" height="180" alt="3" src="https://github.com/user-attachments/assets/802dcb9f-3d63-41b9-880e-f6a0c9b40ca1" />
+    <img width="200" height="120" alt="tel" src="https://github.com/user-attachments/assets/802dcb9f-3d63-41b9-880e-f6a0c9b40ca1" />
   </a>
 </p>
 
