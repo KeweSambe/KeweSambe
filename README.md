@@ -14,6 +14,7 @@ J'essaie de me construire un profil hybride où l’IA, la data et mes passions 
 Chaque mois, je développe un nouveau projet, data ou créatif, pour continuer à apprendre et partager et evidement remplir mon portefolio !
 
 ## 📂 Projets
+Septembre 2025 : (Analyse du marché des Jeux Vidéos)[https://github.com/KeweSambe/Projet_jeux_videos_1]
 ## 🛠️ Mes Compétences
 ### 💻 Langages & Data
 <p align="center">
