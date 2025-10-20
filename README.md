@@ -69,7 +69,7 @@ Chaque mois, je développe un nouveau projet, data ou créatif, pour continuer �
   </a>
 </p>
 
-### 🎨 Créa
+### 🖼️ Créa
 <p align="center">
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9df696f0-edd5-4d45-b787-98071f8473e6" />
