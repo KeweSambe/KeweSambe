@@ -15,7 +15,10 @@ Chaque mois, je développe un nouveau projet, data ou créatif, pour continuer �
 
 ## 📂 Projets
 Septembre 2025 : Analyse du marché des jeux vidéo – [Voir le projet](https://github.com/KeweSambe/Projet_jeux_videos_1)
+
 Octobre 2025 : Exploration des tendances de Webtoon Originals France  – [Voir le projet](https://app.powerbi.com/links/uiwFLkpkmw?ctid=88eebcae-d6e6-4ef7-bba4-4c34f4c2d5e0&pbi_source=linkShare)
+
+
 ## 🛠️ Mes Compétences
 ### 💻 Langages & Data
 <p align="center">
